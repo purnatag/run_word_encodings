@@ -1,0 +1,1 @@
+[2023/03/23 10:49:31] mod=mtu|cli=192.168.0.200/50317|srv=40.81.94.43/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
